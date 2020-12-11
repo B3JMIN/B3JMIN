@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+The discipline to not check your phone when the build is happening is like 50% of an engineer's productivity :eyes:
 <!--
 **B3JMIN/B3JMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
